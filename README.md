@@ -10,3 +10,33 @@ https://robazprogrammer.github.io/HW-9-Updated-Profile/
 
 Languages: JS, CSS, HTML, Fonts
 
+UPDATED FOR WEEK 17 - SEE BELOW
+
+GitHub Profile
+Repos copied from first two projects
+All homework assignments have READMEs.
+
+LinkedIn 
+Posted project and grade 6/15/2019: graded same day.
+
+Portfolio
+Has 8 deployed projects including both projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
